@@ -34,7 +34,7 @@ OCR 的辨識效果就是他媽個玄學(Sml2h3 2024 et al. ddddocr)，為了測
 ---
 
 ## 環境安裝
-先安裝vscode https://code.visualstudio.com/docs/?dv=win64user
+安裝教學ppt >>[點這裡](https://docs.google.com/presentation/d/1dUFjNHxN0w7T_3AqvYJSvKmD_EUY_DY1/edit?usp=sharing&ouid=111161914684307386419&rtpof=true&sd=true)
 
 ###  使用 pip 安裝
 請確保已安裝 **Python 版本 >= 3.8**。
