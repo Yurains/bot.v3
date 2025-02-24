@@ -1,0 +1,16 @@
+pip install virtualenv
+
+
+python3 -m virtualenv -p python3.9 test  #建立
+
+
+test\Scripts\activate #進入
+
+
+deactivate #關閉
+
+
+rmdir /s /q test #刪除
+
+
+pip install -r  #安裝
